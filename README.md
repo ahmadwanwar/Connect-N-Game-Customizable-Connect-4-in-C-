@@ -1,2 +1,2 @@
 # Connect-N-Game-Customizable-Connect-4-in-C-
-A console-based implementation of a customizable Connect-N game developed in C++. Players can define board size, connection limit, and compete in a turn-based environment. The game includes save/load functionality, dynamic board rendering, and win detection across horizontal, vertical, and diagonal directions.
+This project is a fully functional two-player Connect-N game built using core C++ concepts without external libraries. It supports dynamic configuration of rows, columns, and winning conditions, making it more flexible than traditional Connect 4. The system handles player turns, validates moves, detects winners in all directions, and allows users to save and resume gameplay using file handling.
